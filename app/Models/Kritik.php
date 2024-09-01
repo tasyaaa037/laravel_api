@@ -16,5 +16,7 @@ class Kritik extends Model
         'rating',
         'film_id',
         'user_id',
+
+        
     ];
 }
